@@ -1,0 +1,8 @@
+<meta>time:128,scrollspeed:30
+<start>
+120:1
+122:1
+124:1
+126:1
+128:1
+<end>
